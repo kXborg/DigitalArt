@@ -6,7 +6,7 @@ This repository is to showcase some of my digital art work. Created using ProCre
 
 ## Fruits from the Hand of a Novice
 
-<img src="./Fruits.jpg" alt="Fruits art" width="1000">
+<img src="./Fruits-procreate.jpg" alt="Fruits art" width="1000">
 
 [<img src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" alt="YouTube Video" width="200">](https://youtu.be/6DiX-_mhqnw)
 
