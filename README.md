@@ -8,6 +8,8 @@ This repository is to showcase some of my digital art work. Created using ProCre
 
 <img src="./fruits.jpg" alt="Fruits art" width="1000">
 
+[![Watch on YouTube](https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg)](https://youtu.be/uYMllCgGAmc)
+
 ## Butterfly of the Midnight Shadow
 
 <img src="./butterfly-cropped.jpg" alt="Butterfly ProCreate Art" width="1000">
