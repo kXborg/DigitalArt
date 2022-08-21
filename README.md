@@ -2,7 +2,7 @@
 
 <img src="./procreate.png" alt="ProCreate Logo" width="110"> <img src="./adobe-sketchbook.jpg" alt="Adobe Sketch Book Logo" width="100">
 
-This repository is to showcase some of my digital art work. Created using ProCreate on iPad and Adobe Sketchbook.
+This repository is to showcase some of my digital artwork. Created using ProCreate on iPad and Adobe Sketchbook.
 
 ## Fruits from the Hand of a Novice
 
