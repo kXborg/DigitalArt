@@ -4,15 +4,15 @@
 
 This repository is to showcase some of my digital art work. Created using ProCreate on iPad and Adobe Sketchbook.
 
-<h3><p align="left"><b>[Butterfly of the Midnight Shadow](https://youtu.be/uYMllCgGAmc)</b></p></h3>
-
-<img src="./butterfly-cropped.jpg" alt="Butterfly ProCreate Art" width="1000">
-
-<h3><p align="left"><b>Fruits from the Hand of a Novice</b></p></h3>
+## Fruits from the Hand of a Novice
 
 <img src="./fruits.jpg" alt="Fruits art" width="1000">
 
-<h3><p align="left"><b>Panda from the Land of Rising Sun</b></p></h3>
+## Butterfly of the Midnight Shadow
+
+<img src="./butterfly-cropped.jpg" alt="Butterfly ProCreate Art" width="1000">
+
+## Panda from the Land of Rising Sun
 
 <img src="./panda-cropped.jpg" alt="Panda art" width="1000">
 
