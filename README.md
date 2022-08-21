@@ -1,6 +1,6 @@
 # Digital Art
 
-<img src="./procreate.png" alt="ProCreate Logo" width="110"> <img src="./adobe-sketchbook.jpg" alt="Adobe Sketch Book Logo" width="100">
+<img src="./procreate.png" alt="ProCreate Logo" width="110"> <img src="./adobe-sketchbook.jpg" alt="Adobe Sketch Book Logo" width="95">
 
 This repository is to showcase some of my digital artwork. Created using ProCreate on iPad and Adobe Sketchbook.
 
