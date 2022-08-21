@@ -6,7 +6,11 @@ This repository is to showcase some of my digital art work. Created using ProCre
 
 <img src="./panda-cropped.jpg" alt="Panda art" width="1000">
 
-<img src="./butterfly.JPG" alt="Butterfly ProCreate Art" width="1000">
+<p align="middle">Panda from the Land of Rising Sun</p>
+
+<img src="./butterfly-cropped.jpg" alt="Butterfly ProCreate Art" width="1000">
+
+<p align="middle">Butterfly of the Midnight Shadow</p>
 
 
 
