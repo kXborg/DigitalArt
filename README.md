@@ -23,7 +23,7 @@ This repository is to showcase some of my digital artwork. Created using ProCrea
 
 ## DigiMon Frontier
 
-<img src="./SketchBook/DigiMon-Frontier.jpg" alt="DigiMon" width="420"> <img src="./SketchBook/DigiMon-Frontier-Evolution.jpg" alt="DigiMon" width="420">
+<img src="./SketchBook/DigiMon-Frontier.jpg" alt="DigiMon" width="410"> <img src="./SketchBook/DigiMon-Frontier-Evolution.jpg" alt="DigiMon" width="410">
 
 
 
